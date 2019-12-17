@@ -1,0 +1,28 @@
+body
+{
+  text-align: center;
+  background-image: url('../img/bear.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1
+{
+  background-color: yellow;
+}
+.container
+{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  align-items: center;
+  width: 20%;
+  margin-top: 10%;
+  margin-right: 58%;
+  color: white;
+  height: 200px;
+}
+.row
+{
+  margin: 10px;
+  height: 50px;
+}
